@@ -1,6 +1,6 @@
 # Subdivider
 
-This code creates and subdivides a cube
+This code creates and subdivides a cube.
 Manipulate Iterations and Deletes to create patterns.
 
 Have fun!
